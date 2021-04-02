@@ -1,5 +1,121 @@
 [
     {
+        "url": "https://www.carlist.my/new-cars/limited-offer-new-2021-proton-saga-1-3-standard-auto/7475116",
+        "name": "Limited Offer New 2021 Proton Saga 1.3 Standard Auto",
+        "image": [
+            "https://img1.icarcdn.com/6115747/gallery_new-car-carlist-proton-saga-standard-sedan-malaysia_000006115747_104e2be2_5aa0_4749_a91d_a5625e5def77.jpg?smia=xTM",
+            "https://img1.icarcdn.com/6115747/gallery_new-car-carlist-proton-saga-standard-sedan-malaysia_000006115747_ad3ca104_64a0_41e2_bbbc_f114536f5398.jpg?smia=xTM",
+            "https://img1.icarcdn.com/6115747/gallery_new-car-carlist-proton-saga-standard-sedan-malaysia_000006115747_c2843ff2_5c3c_47ab_8dbf_5435dd49da52.jpg?smia=xTM",
+            "https://img1.icarcdn.com/6115747/gallery_new-car-carlist-proton-saga-standard-sedan-malaysia_000006115747_17e353bf_c66c_449a_9f11_febf251d7514.jpg?smia=xTM",
+            "https://img1.icarcdn.com/6115747/gallery_new-car-carlist-proton-saga-standard-sedan-malaysia_000006115747_2377c51a_5efa_4b5b_a75e_a49d4773fb88.jpg?smia=xTM",
+            "https://img1.icarcdn.com/6115747/gallery_new-car-carlist-proton-saga-standard-sedan-malaysia_000006115747_363bf980_c6e8_46d9_9228_d2c67ab66a64.jpg?smia=xTM",
+            "https://img1.icarcdn.com/6115747/gallery_new-car-carlist-proton-saga-standard-sedan-malaysia_000006115747_93521f3b_4ffa_4630_affc_e5fdfa44969f.jpg?smia=xTM",
+            "https://img1.icarcdn.com/6115747/gallery_new-car-carlist-proton-saga-standard-sedan-malaysia_000006115747_be0be43d_37f9_4d5d_bbc5_4c04e0b215ad.jpg?smia=xTM"
+        ],
+        "price": 33300,
+        "installment": {
+            "price": 432,
+            "per": "month"
+        },
+        "sellerInfo": {
+            "type": "Sales Agent",
+            "location": "Selangor - Subang Jaya"
+        },
+        "keyDetails": {
+            "carType": "New Car",
+            "make": "Proton",
+            "model": "Saga",
+            "variant": "Standard",
+            "year": 2021,
+            "engineCapacity": "1332 cc",
+            "transmission": "Automatic",
+            "seatCapacity": 5,
+            "mileage": "0 - 5K",
+            "colour": "Red"
+        },
+        "sellerComment": "Say Carlist.my for the best deal\n                    ~ Special To All Carlist Customer,\n\n~We Have Special Offer For New Proton Saga 2021\n\n* Discount RMXXXX *\n\n* Discount RMXXXX *\n\n* Discount RMXXXX *\n\n$ READY STOCK & HIGH DISCOUNT IN TOWN $\n\n$ READY STOCK & HIGH DISCOUNT IN TOWN $\n\n$ READY STOCK & HIGH DISCOUNT IN TOWN $\n\n*Limited Offer For This Month Only\n\n*Open For All Proton Saga Model*\n\nSTANDARD MT DISCOUNT - RMXXXX\nSTANDARD CVT DISCOUNT - RMXXXX\nPREMIUM CVT DISCOUNT - RMXXXX\n\n@5 YEAR WARRANTY.\n\n@FAST LOAN APPROVED.\n\n@LOW INTEREST RATES.\n\n@LOW DOWN PAYMENT.\n\n@Strong Connection With Banker.\n\n@Special Rebate.\n\n$ SPECIAL HIGH PRICE USED CAR TRADE IN $\n\n* Booking today got a Special Gift*\n\nContact Me Now If you want to know more *OFFER*\u260e\u260e\u260e :\n\nPls call or WhatsApp for more info and *OFFER*\n\nMr Calvin -         Show Phone Number 012-3931919\n\nwww.wasap.my/6123931919\n\nwww.wasap.my/6123931919\n\nwww.wasap.my/6123931919\n\n*We Have Special Offer For Other Proton Model Also\n\n*We Professional Selling All Proton Car Model Below\n\n@ Proton X70 CKD\n@ Proton Exora\n@ Proton Persona\n@Proton Iriz\n@Proton Saga\n\n*** ALL READY STOCK ***",
+        "specifications": {
+            "transmission": {
+                "transmission": "Automatic",
+                "numberOfGears": 4
+            },
+            "general": {
+                "doors": 4,
+                "seatCapacity": 5,
+                "assembled": "Locally Built"
+            },
+            "engineSpecifications": {
+                "engineCc": 1332,
+                "bore(Mm)": 76,
+                "stroke(Mm)": 73.4,
+                "compressionRatio": 10,
+                "peakPower(Hp)": 95,
+                "peakTorque(Nm)": 120,
+                "engineType": "Piston",
+                "directInjection": "Multi-Point Injected",
+                "aspiration": "Aspirated",
+                "fuelType": "Petrol - Unleaded (ULP)"
+            },
+            "performance&Economy": {
+                "fuelConsumption(L/100Km)": 5.4,
+                "topSpeed(Km/H)": 160
+            },
+            "steering": {
+                "steeringRadius": 10.2,
+                "steeringType": "Rack and Pinion"
+            },
+            "dimensions&Weight": {
+                "length(Mm)": 4331,
+                "width(Mm)": 1689,
+                "height(Mm)": 1491,
+                "wheelBase(Mm)": 2465,
+                "kerbWeight(Kg)": 1065,
+                "fuelTank(Litres)": 40
+            },
+            "brakes": {
+                "frontBrakes": "Ventilated discs",
+                "rearBrakes": "Drums"
+            },
+            "suspensions": {
+                "frontSuspension": "Macpherson Strut",
+                "rearSuspension": "Torsion Beam"
+            },
+            "tyres&Wheels": {
+                "frontTyre": "185/60 R14",
+                "rearTyre": "185/60 R14",
+                "frontRim(Inches)": 14,
+                "rearRim(Inches)": 14
+            }
+        },
+        "equipment": {
+            "comfort": {
+                "other": "Mirrors, Foldable Side Rear Spoiler Seat Height Adjuster for Driver Seat trim, fabric Steering Wheel Urethane"
+            },
+            "convenience": {
+                "powerSideMirror": "Electric Door Mirrors",
+                "powerWindows": "Power Windows",
+                "steeringTilt": "Tilt adjustable steering"
+            },
+            "entertainment": {
+                "usb": "USB and Bluetooth connectivity"
+            },
+            "lighting": {
+                "headlamps": "Halogen headlamps",
+                "sideMirrorTurningIndicators": "LED Wing Mirror Signal Light"
+            },
+            "safety": {
+                "abs/Ebd": "Brake Assist System (BA/BAS) Brake, Anti-Lock (ABS) Brake, Electronic Force Distribution (EBD)",
+                "frontAirbags": "Airbag, driver's Airbag, front passenger's",
+                "immobilizer": "Anti-Theft Alarm System Immobilizer",
+                "isofix": "2nd row seats-ISOFIX with top tethers",
+                "seatBelts": "Front seatbelt pre-tensioners and force limiters"
+            },
+            "wheelsandTyres": {
+                "rimMaterial": "14\" Alloy rims"
+            }
+        }
+    },
+    {
         "url": "https://www.carlist.my/new-cars/2021-honda-accord-1-5-tcp-clearance-stock-easy-loan-beli-mudah-dan-murah/7580004",
         "name": "2021 Honda Accord 1.5 TCP CLEARANCE STOCK, EASY LOAN, BELI MUDAH DAN MURAH",
         "image": [
@@ -136,8 +252,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "17\" Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/limited-offer-new-2021-proton-saga-1-3-premium/7769258",
@@ -260,8 +375,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-nissan-x-trail-aero-xtremer-max-loan/7704858",
@@ -319,8 +433,7 @@
                 "engineCc": 1997,
                 "fuelType": "Petrol - Unleaded (ULP)"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2020-nissan-almera-1-0-turbo-no-need-low-downpayment-best-promo/7199009",
@@ -440,8 +553,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-toyota-hiace-2-5l-m-passager-window-van-11-seater/7669804",
@@ -560,8 +672,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Steel Rim"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2020-daihatsu-granmax-1-5-at-mt-no-need-downpayment/6647851",
@@ -670,8 +781,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "13\" steel wheel"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2020-nissan-serena-2-0-s-hybrid-high-way-star-mpv-no-need-downpayment-while-last-stock/7488138",
@@ -786,8 +896,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "16'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-proton-saga-1-3-premium-sedan-jualan-hebat-pengecualian-cukai-staysafe/7426128",
@@ -921,8 +1030,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-nissan-serena-2-0-a-no-need-downpayment-best-promo/7369079",
@@ -1038,8 +1146,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-proton-saga-1-3-premium-sedan-ramadhan-special-islamic/7708419",
@@ -1169,8 +1276,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-nissan-serena-2-0-s-hybrid-high-way-star-mpv/7382540",
@@ -1288,8 +1394,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "16'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-nissan-almera-1-0-turbo/7500442",
@@ -1426,8 +1531,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels 15\" spare tyre with steel wheel"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/limited-offer-new-2021-proton-iriz-1-6-executive-hatchback/7769282",
@@ -1549,8 +1653,7 @@
                 "stabilityControl": "Traction Control System (TC/TCS)",
                 "other": "Impact Sensing Auto Door Unlock"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/limited-offer-new-2021-proton-iriz-1-6-premium-hatchback/7769294",
@@ -1680,8 +1783,7 @@
                 "stabilityControl": "Traction Control System (TC/TCS)",
                 "other": "Impact Sensing Auto Door Unlock"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-ready-stock-mazda-cx-5-2-0-skyactiv-g-suv-high-spec-sales-tax-promotion-no-hidden-price-4s-service-centre/6230630",
@@ -1834,8 +1936,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "17\" Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-sales-tax-holiday-limited-edition-free-gift-free-5-years-warranty-and-service-2021-mazda-cx-5-2-0-skyactiv-g-suv/7695971",
@@ -1991,8 +2092,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "17\" Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-tax-holiday-cr-v-2-0-best-deal-in-town/5516843",
@@ -2120,8 +2220,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "17\" Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-honda-accord-1-5-tc-special-rebate-free-accessories-stand-to-win-a-car/7660902",
@@ -2256,8 +2355,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "18\" Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-tax-holiday-honda-city-1-5-e-i-vtec-best-deal-free-body-kits/7157913",
@@ -2382,8 +2480,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/tax-holiday-2021-honda-jazz-1-5-e-best-deal-free-body-kits/7743422",
@@ -2512,8 +2609,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-tax-holiday-honda-hr-v-1-8-v-best-deal-in-town/6886565",
@@ -2641,8 +2737,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "17\" Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/tax-holiday-2021-honda-civic-1-5tc-best-deal-free-body-kits/6607741",
@@ -2791,8 +2886,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "17\" Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/limited-offer-new-2021-proton-exora-1-6-turbo-premium-mpv/7676017",
@@ -2916,8 +3010,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "16'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/limited-offer-new-2021-proton-exora-1-6-turbo-executive-mpv/7676007",
@@ -3028,8 +3121,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "16'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/limited-offer-new-2021-proton-persona-1-6-standard-auto/7475146",
@@ -3148,8 +3240,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-volvo-s60-2-0-t8-r-design-sedan/7753652",
@@ -3293,8 +3384,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "19\" Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-honda-accord-1-5-tc-best-deals-in-town/6607754",
@@ -3444,8 +3534,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "17\" Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-proton-saga-zero-tax-high-rebate-free-gift-max-loan/5532178",
@@ -3566,8 +3655,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "13\" steel wheel"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-nissan-x-trail-2-0-l-2wd-suv/7730204",
@@ -3619,8 +3707,7 @@
                 "engineCc": 1997,
                 "fuelType": "Petrol - Unleaded (ULP)"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-nissan-serena-2-0-s-hybrid-high-way-star-mpv/7600085",
@@ -3700,8 +3787,7 @@
                 "frontRim(Inches)": 16,
                 "rearRim(Inches)": 16
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-nissan-almera-1-0-vl-sedan/7730446",
@@ -3830,8 +3916,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels 15\" spare tyre with steel wheel"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-volkswagen-tiguan-1-4-allspace-highline-suv/7147531",
@@ -3950,8 +4035,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "18\" Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-proton-saga-zero-tax-high-rebate-free-gift-max-loan/6424604",
@@ -4073,8 +4157,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "13\" steel wheel"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-honda-hr-v-1-8-i-vtec-rs-full-spec-new/7735349",
@@ -4203,8 +4286,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "18\" Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-honda-accord-1-5-tc-luxury-premium-full-spec-new/7768547",
@@ -4339,8 +4421,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "17\" Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-perodua-alza-1-5-se-mpv-best-offer/7185388",
@@ -4462,8 +4543,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/perodua-myvi-1-5-av-hatchback-0-sales-tax-free/5512704",
@@ -4601,8 +4681,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-proton-saga-maximum-loan-free-gift/6569551",
@@ -4721,8 +4800,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "14\" Alloy rims"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-honda-jazz-1-5-e-i-vtec-hatchback-best-deal-in-town/7768688",
@@ -4848,8 +4926,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-honda-city-1-5-s-raya-promo-april/7695794",
@@ -4980,8 +5057,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-honda-jazz-1-5-e-berbaloi-6k-rebate-terbest-dalam-town/7402373",
@@ -5112,8 +5188,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-proton-saga-1-3-standard-sedan-new-face-lift-maximum-loan-foc-bodykit/7603931",
@@ -5227,8 +5302,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "14\" Alloy rims"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/isuzu-d-max-1-9-mt-4x4-type-b-fast-approval/7199646",
@@ -5345,8 +5419,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "16'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/mazda-cx-5-2-0g-2wd-high-sales-tax-promotion-ready-stock-2021-new-facelift-ipm-skyactiv-g-suv-ready-stock-2wd-high/7624319",
@@ -5497,8 +5570,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "17\" Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-tax-free-superdeal-honda-city-1-5-v-i-vtec-sedan/7348184",
@@ -5633,8 +5705,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "16'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/2021-nissan-serena-2-0-s-hybrid-highway-star-mpv/6176478",
@@ -5756,8 +5827,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/ready-stock-2021-proton-saga-max-loan/7622457",
@@ -5882,8 +5952,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "15'' Alloy wheels"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/foc-bodykit-2021-proton-saga-1-3-standard-sedan-new-facelift/5786224",
@@ -6015,8 +6084,7 @@
             "wheelsandTyres": {
                 "rimMaterial": "13\" steel wheel"
             }
-        },
-        "reviews": null
+        }
     },
     {
         "url": "https://www.carlist.my/new-cars/best-deal-2021-proton-exora-low-free-gift/5701054",
@@ -6139,130 +6207,6 @@
             "wheelsandTyres": {
                 "rimMaterial": "16'' Alloy wheels"
             }
-        },
-        "reviews": null
-    },
-    {
-        "url": "https://www.carlist.my/new-cars/2021-proton-persona-1-6-standard-sedan-a-tax-free-promotion-is-back/6659620",
-        "name": "2021 Proton Persona 1.6 Standard Sedan (A) #TAX FREE PROMOTION IS BACK",
-        "image": [
-            "https://img1.icarcdn.com/0269566/gallery_new-car-carlist-proton-persona-standard-sedan-malaysia_0269566_7pZcsyy5vAIJSkYJRi8Kwx.jpg?smia=xTM",
-            "https://img1.icarcdn.com/0269566/gallery_new-car-carlist-proton-persona-standard-sedan-malaysia_0269566_qXnwXcGVZZFZSIJQRAS3ab.jpg?smia=xTM",
-            "https://img1.icarcdn.com/0269566/gallery_new-car-carlist-proton-persona-standard-sedan-malaysia_0269566_CtBn65t1bEBlCTD1DecGLQ.jpg?smia=xTM",
-            "https://img1.icarcdn.com/0269566/gallery_new-car-carlist-proton-persona-standard-sedan-malaysia_0269566_DW8lBA3HzQvYmtHhnLHraJ.jpg?smia=xTM",
-            "https://img1.icarcdn.com/0269566/gallery_new-car-carlist-proton-persona-standard-sedan-malaysia_0269566_WqznISQ5hggQ39DpcCKoBJ.jpg?smia=xTM",
-            "https://img1.icarcdn.com/0269566/gallery_new-car-carlist-proton-persona-standard-sedan-malaysia_0269566_HrZw5HB6z1HKKOWa2lw9oT.jpg?smia=xTM",
-            "https://img1.icarcdn.com/0269566/gallery_new-car-carlist-proton-persona-standard-sedan-malaysia_0269566_FrBX6S2GImghG7BjfROgKl.jpg?smia=xTM",
-            "https://img1.icarcdn.com/0269566/gallery_new-car-carlist-proton-persona-standard-sedan-malaysia_0269566_fPGhKW0QbMNRhfEhIALvQ4.jpg?smia=xTM",
-            "https://img1.icarcdn.com/0269566/gallery_new-car-carlist-proton-persona-standard-sedan-malaysia_0269566_4i2u0UA3L3tXK23Qe85fLw.jpg?smia=xTM",
-            "https://img1.icarcdn.com/0269566/gallery_new-car-carlist-proton-persona-standard-sedan-malaysia_0269566_V2zUNhZkghyLBrICu32t0y.jpg?smia=xTM",
-            "https://img1.icarcdn.com/0269566/gallery_new-car-carlist-proton-persona-standard-sedan-malaysia_0269566_hxbCZk6CokrIFWHuLRWtfh.jpg?smia=xTM",
-            "https://img1.icarcdn.com/0269566/gallery_new-car-carlist-proton-persona-standard-sedan-malaysia_0269566_gsTGhXtDiw12ufsre17tPz.jpg?smia=xTM",
-            "https://img1.icarcdn.com/0269566/gallery_new-car-carlist-proton-persona-standard-sedan-malaysia_0269566_UZxKsT3ee9y1EkMWoVjd6r.jpg?smia=xTM"
-        ],
-        "price": 44000,
-        "installment": {
-            "price": 570,
-            "per": "month"
-        },
-        "sellerInfo": {
-            "type": "Sales Agent",
-            "location": "Penang - Bayan Lepas"
-        },
-        "keyDetails": {
-            "carType": "New Car",
-            "make": "Proton",
-            "model": "Persona",
-            "variant": "Standard",
-            "year": 2020,
-            "engineCapacity": "1597 cc",
-            "transmission": "Automatic",
-            "seatCapacity": 5,
-            "mileage": "0 - 5K",
-            "colour": "Red"
-        },
-        "sellerComment": "Say Carlist.my for the best deal\n                    Proton Persona OTR price without insurance\nPersona STD (A) 1.6 RM44,000\nPersona Executive (A) 1.6 RM48,900\nPersona Premium (A) 1.6 RM53,700\n\n* Authorized Sales Advisor\n* Fast Loan Approval\n* High Trade In\n* Good before & After Sales Service\n\nLocation : Vivahill Motor Service SDN BHD\n-Rear Spoiler\n-Seat Height Adjuster for Driver\n-Seat trim, fabric\n-Shark Fin Radio Antenna\n-Steering Wheel Urethane\n-Hill hold assist\n-Power Windows\n-Tilt Steering Column\n-Bluetooth and USB devices connectivity\n-Halogen headlamps\n-Side Mirror,Turning light\n-Brake Assist System (BA/BAS)\n-Brake, Anti-Lock (ABS)\n-Brake, Electronic Force Distribution (EBD)\n-Airbag, driver's\n-Airbag, front passenger's\n-Anti-Theft Alarm System Immobilizer\n-2nd row seats-ISOFIX with top tethers\n-Impact Sensing Auto Door Unlock\n-Traction Control System (TC/TCS)\n-15'' Alloy wheels\n\nEXTRA INFO :\n\n** Trusted Car Seller\n** Satisfaction guaranteed **\n** Genuine Dealer\n** Low Mileage \n\n\nDocument For Own Use :\n1. My Card and Driving License\n2. Latest 3 Months Payslip\n3. Latest 3 Months Bank Statement\n4. EPF/KWSP\n\n------ DO DROP BY TO OUR SHOWROOM ------",
-        "specifications": {
-            "transmission": {
-                "transmission": "Automatic"
-            },
-            "general": {
-                "doors": 4,
-                "seatCapacity": 5,
-                "assembled": "Locally Built"
-            },
-            "engineSpecifications": {
-                "engineCc": 1597,
-                "bore(Mm)": 76,
-                "stroke(Mm)": 88,
-                "compressionRatio": 10,
-                "peakPower(Hp)": 109,
-                "peakTorque(Nm)": 150,
-                "engineType": "Piston",
-                "directInjection": "Multi-Point Injected",
-                "aspiration": "Aspirated",
-                "fuelType": "Petrol - Unleaded (ULP)"
-            },
-            "performance&Economy": {
-                "fuelConsumption(L/100Km)": 5.6
-            },
-            "steering": {
-                "steeringRadius": 10,
-                "steeringType": "Rack and Pinion"
-            },
-            "dimensions&Weight": {
-                "length(Mm)": 4362,
-                "width(Mm)": 1722,
-                "height(Mm)": 1554,
-                "wheelBase(Mm)": 2555,
-                "frontThread": 1490,
-                "rearThread": 1490,
-                "kerbWeight(Kg)": 1174,
-                "fuelTank(Litres)": 40
-            },
-            "brakes": {
-                "frontBrakes": "Ventilated discs",
-                "rearBrakes": "Drums"
-            },
-            "suspensions": {
-                "frontSuspension": "Macpherson Strut",
-                "rearSuspension": "Torsion Beam"
-            },
-            "tyres&Wheels": {
-                "frontTyre": "185/55 R15",
-                "rearTyre": "185/55 R15",
-                "frontRim(Inches)": "15x6",
-                "rearRim(Inches)": "15x6"
-            }
-        },
-        "equipment": {
-            "comfort": {
-                "other": "Rear Spoiler Seat Height Adjuster for Driver Seat trim, fabric Shark Fin Radio Antenna Steering Wheel Urethane"
-            },
-            "convenience": {
-                "hillStartAssist": "Hill hold assist",
-                "powerWindows": "Power Windows",
-                "steeringTilt": "Tilt Steering Column"
-            },
-            "entertainment": {
-                "bluetooth": "Bluetooth and USB devices connectivity"
-            },
-            "lighting": {
-                "headlamps": "Halogen headlamps",
-                "sideMirrorTurningIndicators": "Side Mirror,Turning light"
-            },
-            "safety": {
-                "abs/Ebd": "Brake Assist System (BA/BAS) Brake, Anti-Lock (ABS) Brake, Electronic Force Distribution (EBD)",
-                "frontAirbags": "Airbag, driver's Airbag, front passenger's",
-                "immobilizer": "Anti-Theft Alarm System Immobilizer",
-                "isofix": "2nd row seats-ISOFIX with top tethers",
-                "stabilityControl": "Traction Control System (TC/TCS)",
-                "other": "Impact Sensing Auto Door Unlock"
-            },
-            "wheelsandTyres": {
-                "rimMaterial": "15'' Alloy wheels"
-            }
-        },
-        "reviews": null
+        }
     }
 ]
